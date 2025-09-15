@@ -13,8 +13,4 @@
 #module purge
 #$ module --ignore_cache load "anaconda3/2020.10"
 
-# python timespan_sir.py
-
-# python Result_selection_aicc.py
-
-python project2.py
+python timespan_sir.py
