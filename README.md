@@ -5,7 +5,7 @@ Mathematical epidemiology has become an important research field as interdiscipl
 ## Model Architecture 
 We model the SARS-CoV-2 virus transmission using Susceptible-Infected-Removed (SIR) model for the disease model, and the SIR coupled to a behaviour model (based on evoluntionary game theory) for the coupled behaviour-disease model. 
 
-![alt text](SIRX1.png)
+![alt text](Figures/SIRX1.png)
 
 Refer to the paper for model details and results. 
 
